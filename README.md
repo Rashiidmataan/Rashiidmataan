@@ -11,9 +11,13 @@
   i am quite adept in the following skills as well:
   
   1.Quark and QuarkExpress..
+  
   2.Adobe Acrobat ,Adobe creative suit and Adoobe illustrator.
+  
   3.Adobe in Design,Adobe flash and Adobe  Photoshop with photo Editing
-  4.planner and visualizating new aethetic Modal
+  
+  4.planner and visualizating new aethetic Modal.
+  
   5.Flexible, projectiong and representative many more
   
   
