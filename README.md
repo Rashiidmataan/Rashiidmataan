@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rashiidmataan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning T-hub on my skill.
+- 💞️ I’m looking to collaborate on developing python projects
 
 
 <! ---
