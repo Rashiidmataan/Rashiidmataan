@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rashiidmataan
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning T-hub on my skill.
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on developing python projects
 
 
