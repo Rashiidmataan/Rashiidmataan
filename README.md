@@ -1,31 +1,59 @@
-- 👋 Hi, I’m @Rashiidmataan
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on developing python projects
+# 👋 Hi, I'm Abdulrashiid O. Matan
 
+I'm an AI and Computer Vision enthusiast with a strong focus on deep learning, geospatial data analysis, and real-world applications of intelligent systems. I enjoy turning data into actionable insights and building impactful solutions.
 
-<! ---
+---
 
-  I am  Expert On Graphic Designing and enermous Knowledge in illustration,
-  photoshop ,varius other graphic media and Dreamweaver along with these
-  i am quite adept in the following skills as well:
-  
-  1.Quark and QuarkExpress..
-  
-  2.Adobe Acrobat ,Adobe creative suit and Adoobe illustrator.
-  
-  3.Adobe in Design,Adobe flash and Adobe  Photoshop with photo Editing
-  
-  4.planner and visualizating new aethetic Modal.
-  
-  5.Flexible, projectiong and representative many more
-  
-  
-  
+## 🧠 What I Do
 
+- 🔍 **Computer Vision** – Object detection, image segmentation, satellite image analysis  
+- 🛰️ **Geospatial Analysis** – Satellite & drone data, spatial intelligence for real-world problems  
+- 🤖 **Deep Learning** – PyTorch models, RNNs, CNNs, transformers  
+- 📊 **Data Science** – Data preprocessing, visualization, and statistical inference  
+- 🌍 **Impact Focus** – Using AI for social good, especially in underdeveloped regions
 
---->
-<!---
-Rashiidmataan/Rashiidmataan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+**Frameworks & Tools:**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)  
+![YOLO](https://img.shields.io/badge/-YOLOv8-333333?style=flat&logo=yolov5&logoColor=white)  
+![QGIS](https://img.shields.io/badge/-QGIS-333333?style=flat&logo=qgis)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+---
+
+## 📂 Featured Projects
+
+- 🔬 **[Geospatial Illegal Fishing Detection](https://github.com/yourusername/project-illegal-fishing)**  
+  Using satellite imagery + pose estimation to detect suspicious maritime activity.
+
+- 🎯 **[Object Detection with YOLOv8](https://github.com/yourusername/project-yolov8-detection)**  
+  Real-time object detection and tracking using YOLOv8 and DeepSORT.
+
+- 🧮 **[Diabetes Risk Prediction](https://github.com/yourusername/project-diabetes-prediction)**  
+  Data-driven model to identify high-risk individuals using medical datasets.
+
+---
+
+## 📈 GitHub Stats
+
+![Abdulrashiid's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: Rashiidmatan@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/abdulrashiid-o-matan](https://www.linkedin.com/in/abdulrashiid-o-matan)
+
+---
+
+> "Using technology to bridge gaps and create a more connected, data-driven world."
